@@ -5,7 +5,7 @@ status: levande
 # Isondra
 
 > [!info] Översikt
-> **Folk:** Firbolg · **Roll:** fd medlem av det magiska ämbetet; numera fältforskare i [[Highfort]] · **Status:** Levande — under tyst misstanke
+> **Folk:** Firbolg · **Roll:** fd *anställd* magiker vid institutet (aldrig huvudmagiker); bor i [[Newgale]] med maken **Daelen**; fältverksam i [[Highfort]] under Mythaler-arcen · **Status:** Levande — under tyst misstanke
 
 Magikern som dog när [[Revan]] öppnades — och återuppstod i [[Mirfield]]. Det hon såg under händelsen kostade henne platsen i magiska ämbetet.
 

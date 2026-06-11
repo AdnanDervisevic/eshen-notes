@@ -1,0 +1,11 @@
+{
+  "workspace:new-tab": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-aliases: [Bublas]
+aliases: [Bublas, Bulbas Chomp]
 tags: [person, npc, mirfield]
 status: levande
 ---

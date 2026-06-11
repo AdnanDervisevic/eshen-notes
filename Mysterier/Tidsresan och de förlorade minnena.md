@@ -4,6 +4,9 @@ tags: [mysterium, huvudmysterium]
 ---
 # Tidsresan och de förlorade minnena
 
+> [!tip] DM-hint (bekräftad vid bordet, juni 2026)
+> DM:n har antytt att partyt kan ha **rest genom en tidsbubbla** — vilket lyfter tidsloop-spåret från teori till arbetshypotes. Notera även [[Bronze Woods]]: området hette **Iron Woods** förr, och namnbytet "verkar vara relevant på något sätt" enligt samma hintar.
+
 > [!abstract] Kärnmysteriet
 > Partyt seglade från [[Akrylia]] **1535** och anlände — genom luften, i blått sken — **1540**, utan minnen, utan gudarnas blick på sig, och (visade det sig) **utan sina egna kroppar**.
 
@@ -16,6 +19,13 @@ tags: [mysterium, huvudmysterium]
 5. Haggan(?)-beskedet: **[[Revan]] skapades med kronomanti** — partyt är från en annan tid.
 6. [[Oden]] vid Sigurths död: *ni har förlorat era kroppar; endast själarna är era* — Sigurths ursprungsform är människa ([[Sigurths sanna natur]]).
 7. Efter gudakontakterna (Tor, Torm, Oden…) har partyt **återfått kopplingen till sina gudar** — "hela" enligt Agathas definition? Delvis?
+
+## Banden före resan (Roll20-handouten)
+
+Partyt var **inte främlingar** som råkade dela skeppsbrott:
+- [[Eslan|Estlan]] erbjöds frihet om **Estalfus** skickades som *livvakt åt Johannes Andersson* ([[Sigurth Andersson]]s kropp) på Eshen-resan.
+- Familjen Andersson hade 1535 dokumenterad kontakt med ett **sjöfolksgille** — [[Asathal]], **Olivers** folk — under det understrukna namnet *Harpan & Lutan*.
+- Endast **Iduns** väg ombord saknar ännu spår.
 
 ## Obesvarat
 

@@ -19,6 +19,10 @@ Partyts beskyddare, uppdragsgivare och ibland förhörsledare. Victoria mötte [
 - Avväpnade stormjätten vid [[Snöfall 1540]]: *"Vi är inte era fiender!"* — ledde [[Ordningen]]s utsände till kungen.
 - Delade ut tre licenser vid [[Maxwellbalen]] — och castade Fly på partyt när [[Mythalerns rov]] inleddes: *följ efter, var försiktiga.*
 
+## Ryktet om luftduellen
+
+*"Har ni hört?"* (Roll20): Victoria ska ha **slagits mot en man i gröna kläder** — bägge flygande, kastande eld och blixtar — och striden ska ha **förintat gamla varuhuset vid liftarna** (bara en krater kvar). Matchar i tid den oförklarade vaktaktiviteten vid liftarna och lift-smuggeloperationen. Vem mannen i grönt var är okänt ("Reflektion" från [[Yttre Torgets syndikat]] bar grön väst — spekulation).
+
 ## Anmärkningar
 
 - Kan inte höras telepatiskt i fängelsecellen — och enligt [[Dhrovag Drombus]] var hennes föräldrar "inte helt perfekta" (outforskad tråd).

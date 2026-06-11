@@ -7,7 +7,7 @@ status: levande
 > [!info] Översikt
 > **Roll:** Legendarisk hjälte (~100 år före kampanjen) · **Kännetecken:** blont hår, **ett brunt och ett blått öga** (sett i minnesdörren) · **Status:** **Återupplivad** vid [[Amrais val]] — lever nu med [[Patience]]
 
-Eshens störste folkhjälte: spjutkämpen som föll mot draken [[Brimstone]] 1468 när han skyddade [[Shiva]] från drakelden. Endast hans sköld och spjut blev kvar. Eftervärlden anklagade [[Amrai]] och [[Patience]] för att ha huggit honom i ryggen — en lögn som förstörde Amrais liv.
+Eshens störste folkhjälte: spjutkämpen som vid **17 års ålder** (1468 e.S) föll mot draken [[Brimstone]] när han skyddade [[Shiva|Shevah]] från drakelden. **Floden där han omkom bär numera hans namn.** Endast hans sköld och spjut blev kvar. Eftervärlden anklagade [[Amrai]] och [[Patience]] för att ha huggit honom i ryggen — en lögn som förstörde Amrais liv.
 
 ## Sanningen (Fortress of Memories)
 

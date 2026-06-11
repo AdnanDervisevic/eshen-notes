@@ -6,7 +6,7 @@ status: levande
 # Agatha Toestealer
 
 > [!info] Översikt
-> **Typ:** Träskhäxa (hag) i [[Bronze Woods]] · **Syskonskara:** yngst i [[Häxornas systerskap]] ([[Ethel]], [[Mathilda]], [[Luella]]…) · **Kännetecken:** stjäl tår från bybarn; bor i ett hus i ett träd; samlar infektioner (extra finger på vänster hand) · **Status:** Levande, förvisad/slagen på flykt
+> **Typ:** Träskhäxa (hag) i [[Bronze Woods]] · **Syskonskara:** yngst i [[Häxornas systerskap]] ([[Ethel]], [[Mathilda]], [[Luella]]…) · **Kännetecken:** stjäl tår från bybarn; bor i ett hus i ett träd; samlar infektioner (extra finger på vänster hand) · **Status:** Levande — **avtal**: i utbyte mot att partyt skonade hennes liv håller hon sig undan dem (Roll20-handouten)
 
 Legenden i [[Strawford]] sa: en hag i träsket som stjäl barns tår. Sanningen var värre och konstigare. Agatha tog emot partyt med te och gåvokrav, snörde upp sin vänstersko och bytte sin egen lilltå mot svaret som definierat hela kampanjen:
 

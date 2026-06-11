@@ -1,9 +1,16 @@
 ---
-tags: [person, npc, häxa]
-status: död
+aliases: []
+tags: [person, npc, häxa, antagonist]
+status: levande
 ---
 # Mathilda
 
-Syster i [[Häxornas systerskap]] vars **hjärna förvaras i en burk** hos [[Agatha Toestealer]]. Hjärnan hjälpte (tillsammans med [[Ethel]] i spegeln) till att besvara frågor när Estalfus hölls fången. Om hon kan återvända från detta tillstånd är okänt — systrarna verkar svåra att döda permanent.
+> [!info] Översikt
+> **Typ:** Hagga av okänd natur · **Status:** **Levande — i [[Ethel]]s gamla kropp** (Roll20-handouten)
 
-**Se:** [[Arc 06 - Agathas hämnd och Ethel]]
+Systern i [[Häxornas systerskap]] vars **hjärna förvarades i en burk** hos [[Agatha Toestealer]] — och som även i det tillståndet kunde svara på frågor (tillsammans med Ethel i spegeln) och **kommunicera genom korpar**.
+
+På okänt vis har hon tagit sig fri från Agatha och flyttat in i Ethels döda kropp. *"Passformen är inte den bästa."*
+
+> [!question]- Teori
+> Korp-kommunikationen gör Mathilda till en stark alternativ kandidat bakom kråkorna som övervakar partyt — se [[Lord Whitecrow och kråkorna]]. Och en hag i Ethels kropp, i Ethels vrak-näste utanför Mirfield, är en vilande kanon för kommande sessioner. Spekulation.

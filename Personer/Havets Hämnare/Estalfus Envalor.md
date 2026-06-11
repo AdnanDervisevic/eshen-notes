@@ -15,6 +15,7 @@ Paladin, gourmand och motvillig arvtagare till ett mörker som följt hans famil
 - **Fadern [[Eslan]]** — lämnade ett brev och en bentärning i vraket (*"Må ditt öde ligga i dina händer… Till dig, min son"*), ett bankfack hos [[Selondir]] med gåtan till [[Starcrest Keep]], och lät [[Fang Gee]] bygga [[Amrai]]s labyrint för att gömma en låda. I Estalfus återkommande dröm anfaller fadern honom med kniv: *"förlåt min son"*.
 - **[[Estalfus mor]]** — en elegant alvisk kvinna. Hennes själ hölls fången i [[Modersringen]]; hennes avhuggna hand hängde i [[Ethel]]s halsband ([[Stina]] högg av den). Själen befriades i [[Hades]] när ringen förstördes ([[Arc 08 - Stygia och Hades]]).
 - Eslans brev vid graven: *"mina handlingar kostade henne livet… ett mörker följer vår familj."*
+- **Det fulla avskedsbrevet** (Roll20-handouten, se [[Eslan]]): spelskulden, bråket med den dvärgiske unge herren (**Johannes** — Sigurths kropp!), erbjudandet att skicka Estalfus som **livvakt** på Eshen-resan, fadern som vägrade, stölderna, dråpet — och knivnatten som förklarar drömmen. *"PS: Jag har inkluderat ett farväl i botten av botten"* — aldrig funnet.
 
 ## Tro och prövningar
 

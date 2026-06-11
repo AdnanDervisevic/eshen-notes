@@ -6,7 +6,7 @@ status: levande
 # Edgar
 
 > [!info] Översikt
-> **Roll:** Stadsvakt i [[Mirfield]], senare med kaptensansvar · **Relation:** [[Estalfus Envalor]] (partner) · **Husdjur:** baby-griffonen **Daphne** · **Status:** Levande (kidnappad och räddad, [[Arc 12 - Det Yttre Torget]])
+> **Roll:** **Vaktkapten över Mirfields östra distrikt** (befordrad under kampanjen) · **Relation:** [[Estalfus Envalor]] (partner) · **Husdjur:** baby-griffonen **Daphne** · **Status:** Levande (kidnappad och räddad, [[Arc 12 - Det Yttre Torget]])
 
 "Världens snyggaste vakt" (18 charisma enligt protokollet) mötte Estalfus under [[Ändsommarskörden 1540]] — och överlevde både den natten och allt som följt. Ville bli konstnär; blev vakt som sin far.
 

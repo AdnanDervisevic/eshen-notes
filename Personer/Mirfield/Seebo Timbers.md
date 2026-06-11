@@ -1,11 +1,11 @@
 ---
-aliases: [Sibo, Sibo Timbers, Babel]
+aliases: [Sibo, Sibo Timbers, Babel, Bauble]
 tags: [person, npc, mirfield]
 status: levande
 ---
 # Seebo Timbers
 
-Alkemist ("babel" kallad) i **Eldskålen**, [[Mirfield]]. Partyts potion-leverantör, identifierare och ibland medbrottsling.
+**Gnomisk** alkemist ("Bauble" kallad — sessionsanteckningarnas "babel") i **Eldskålen**, [[Mirfield]]. Partyts potion-leverantör, identifierare och ibland medbrottsling. **[[Oliver Underberg]] arbetar numera timanställd i butiken.**
 
 - Hjälpte [[Tibbs Tobberhook]] in i staden.
 - Identifierade förbannelsen på [[Boots of Misty Step]]; köpte Potion of Invisibility; sålde potion-lager inför drottningstriden.

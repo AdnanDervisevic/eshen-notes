@@ -1,12 +1,12 @@
 ---
-aliases: [Drovag, Dhrovag, Drovag Drombus]
+aliases: [Drovag, Dhrovag, Drovag Drombus, Dhrovag Drumbus]
 tags: [person, npc, mirfield]
 status: levande
 ---
 # Dhrovag Drombus
 
 > [!info] Översikt
-> **Roll:** Huvudmagiker för magisk spådom (divination), [[Magiska institutet]] · **Gud:** [[Savra]] (kristallkula med flera ögon) · **Status:** Levande
+> **Roll:** Huvudmagiker för magisk spådom (divination), [[Magiska institutet]] · **Folk:** dvärg ("munter") · **Gud:** [[Savra]] (kristallkula med flera ögon) · **Status:** Levande
 
 Institutets diviner och en av partyts mest givande samtalspartners — när han inte dodgar frågor.
 

@@ -1,12 +1,12 @@
 ---
-aliases: [Illyana, Iliyana, Illiana]
+aliases: [Illyana, Iliyana, Illiana, Illiyana Ethandiir]
 tags: [person, npc, mirfield]
 status: levande
 ---
 # Illiyana
 
 > [!info] Översikt
-> **Roll:** Huvudmagiker för magisk historia, [[Magiska institutet]] · **Kännetecken:** uggla, magiskt té · **Status:** Levande
+> **Roll:** Huvudmagiker för magisk historia, [[Magiska institutet]] · **Efternamn:** Ethandiir · **Bas:** [[Lion's Hold]] · **Kännetecken:** uggla, magiskt té · **Status:** Levande
 
 Institutets historiker. Tog emot partyts rapport efter [[Myth Inventos]] och gav två varningar som ändrade spelplanen:
 

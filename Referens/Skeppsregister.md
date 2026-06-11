@@ -1,5 +1,5 @@
 ---
-aliases: [Skeppen, Mjölkpigan, Nordvindspärlan, Tvillingen, Vattenjungfrun, Långskytten, Salta Flickan]
+aliases: [Skeppen, Mjölkpigan, Nordvindspärlan, Tvillingen, Vattenjungfrun, Långskytten, Salta Flickan, Den Blå Spiran]
 tags: [referens, register]
 ---
 # Skeppsregister
@@ -18,5 +18,5 @@ tags: [referens, register]
 
 - **[[Långskytten]]** — kapten [[Kapten Valar|Valar]]/"Erik"; rutterna till [[Starcrest Keep]] (11 g/person, 1,5 dygn).
 - **[[Salta Flickan]]** — kapten [[Essie Mosley]]; Hogsfeet-rutten.
-- [[Ryan Watson]]s skuta — [[Siren's Call]]-expeditionen.
+- **Den Blå Spiran** — kapten [[Ryan Watson]], [[Lion's Hold]]; [[Siren's Call]]-expeditionen.
 - **Luftskepp** ([[Highmont]]-dvärgarnas): urholkade megaloth-frön, svävar själva; bränsle av bläcksvart sten, 100 g/mile; sågs landa utanför Mirfield 1540.

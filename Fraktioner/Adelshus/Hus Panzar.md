@@ -3,4 +3,6 @@ tags: [fraktion, adelshus]
 ---
 # Hus Panzar
 
-Krigarhuset: först att stödja Maxwell militärt, störst inflytande i stridsfrågor, hängivna [[Helm]]-dyrkare. Baron [[Leeroy Panzar]] (sträng patriark) och arvtagaren [[Viktor Panzar]] (giftermålspressad, lånade Renache sin yxa). Turneringslag: "Blixt & Panzar".
+**Sigill:** stående sköld med gyllene hand, två ögon mot mörk bakgrund · **Ord:** *"Swift and just"* · **Huvud:** [[Leeroy Panzar|Leroy Panzar]] · **Säte:** Inre Torget, östra sektionen, [[Mirfield]]
+
+Ett av rikets äldsta hus och krigarhuset framför andra: stred sida vid sida med [[Leroy Maxwell|Leroy Griffinbane]] innan han kröntes; hängivna [[Helm]]-dyrkare — många medlemmar besitter *gudalika gåvor bundna kring heder och tro*. Äldste sonen [[Viktor Panzar]]: "dumstridig med ett gott hjärta", giftermålspressad, lånade Renache sin yxa. Turneringslag: "Blixt & Panzar".

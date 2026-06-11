@@ -14,6 +14,7 @@ Halflingen som försökte slinka in i [[Mirfield]] i partyts kölvatten — och 
 - *"Ibland kliar det i fingrarna när man vill röra Iduns rustning."* Bär tre knivar med olikfärgade silkesband. Hans "flamma" dog i sjukdom — så han mötte Seebo.
 - Döljer något om Seebos bestar; befann sig misstänkt nära [[Slim]]-incidenten på 25 dec (försvann "för att prata med Slim en gång till" precis före dunsen).
 - [[Edgar]] nämnde hans namn när yttre torget-hoten diskuterades.
+- Partyts interna notering (Roll20): *"Notering till Sigurth: Absolut inget suspekt med honom, men om du ser honom säg till Oliver eller Estalfus."*
 
 > [!question]- Teori
 > Tibbs är antingen en småtjuv med osannolik tajming eller agent åt någon (Yttre Torget? [[Lord Whitecrow]]?). Knivarnas silkesband kan vara coded markörer. Spekulation.

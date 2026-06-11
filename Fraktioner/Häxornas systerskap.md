@@ -4,7 +4,7 @@ tags: [fraktion, antagonist]
 ---
 # Häxornas systerskap
 
-Hag-koven som följt partyt sedan träsket: systrarna **[[Agatha Toestealer]]** (yngst), **[[Ethel]]** (†), **[[Mathilda]]** (hjärna i burk), **[[Luella]]** (†, återkommer) — under den osedda **[[Grandmother]]**.
+Hag-koven som följt partyt sedan träsket: systrarna **[[Agatha Toestealer]]** (yngst; numera avtal: skonad mot att hålla sig undan), **[[Ethel]]** († — men kroppen bebos nu av Mathilda), **[[Mathilda]]** (fd hjärna i burk, **numera i Ethels kropp**, talar genom korpar), **[[Luella]]** (†, "tar sig tillbaka") — under den osedda **[[Grandmother]]**.
 
 ## Metoder och tillgångar
 

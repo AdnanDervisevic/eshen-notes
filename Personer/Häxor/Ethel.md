@@ -1,5 +1,5 @@
 ---
-aliases: [Sjöhäxan Ethel]
+aliases: [Sjöhäxan Ethel, Ethel Heartchewer]
 tags: [person, npc, häxa, antagonist]
 status: död
 ---
@@ -22,3 +22,6 @@ Kvinnan i Agathas spegel: dränkt likblek hud, enorma cirkelögon, djuphavsfiskm
 Partyt drack ur månbrunnen, tog på [[Månbrunnens ringar]], svalde igeln — och dök rakt ner i hennes bakhåll bland fiskfolket. I striden dog [[Oliver Underberg]] (mistade vänster pekfinger) innan Ethel föll ([[Arc 06 - Agathas hämnd och Ethel]]).
 
 Hennes död gjorde [[Luella]] rasande — och enligt [[Nana Twignose]] gladde den ett äldre coven.
+
+> [!warning] Kroppen är upptagen
+> Roll20-handouten: Ethels döda kropp **bebos numera av [[Mathilda]]** — hjärnan ur Agathas burk har på okänt vis tagit sig fri och flyttat in. *"Passformen är inte den bästa."* Sjöhäxan kan alltså i praktiken gå igen, med en annan hyresgäst.

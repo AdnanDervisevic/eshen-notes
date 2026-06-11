@@ -12,6 +12,8 @@ Half-elf-fightern som bokstavligen sprang in i kampanjen: när partyt flydde ur 
 
 ## Bakgrund och kopplingar
 
+- **Krigare från [[Vespia]]** (Roll20-handouten) — vilket ger extra tyngd åt hennes omdöme om [[Zahira al-Sahret]]: *"en farlig kvinna."*
+
 - Arbetar/arbetade åt köpmannen **[[Christobal]]** i Mirfield (med ogren Druk som kollega) — partyts kanal för att sälja dyrgripar.
 - Hennes couatl **[[Callisto]]** kommunicerar med [[Dawnbringer]] och förmedlade visionen av Mount Celestia: *"Den som leker med elden för länge blir till slut bränd."*
 - Lånade en magisk yxa av [[Viktor Panzar]] inför drottningjakten.

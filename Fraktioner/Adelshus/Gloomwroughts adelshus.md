@@ -9,7 +9,7 @@ Societeten i [[Gloomwrought]] — se även [[Gloomwroughts societet]] (personreg
 | Hus | Profil | Status |
 |-----|--------|--------|
 | **Treyvan** | Guldhandeln; från Material Plane ([[Victis Treyvan]], Dolkum) | Märkta av [[Vargas Fellwrouth]]; gravarna tömda |
-| **Fellwroth** | [[Shadar-kai]]; ägde sin herrgård i 500 år | "Utplånade" efter upproret mot prins Rolan den odöde — förrådda av Treyvan; **två medlemmar lever ännu**; lichen Vargas regenererar |
+| **Fellwroth** | [[Shadar-kai]]; ägde sin herrgård i 500 år | "Utplånade" efter upproret mot prins **Roland** (den odöde) — som störtades av [[Lady Babington]]; förrådda av Treyvan; **två medlemmar lever ännu**; lichen Vargas regenererar |
 | **Hashkel** | Störst och nyast; Dedreak huvud | Osams med Carradh |
 | **Carradh** | "The Iron Lords" (Count Olisk); störst privatarmé | Förolämpa dem inte |
 | **Darkrose** | Litet, gammalt ([[Cassius Crome och Iris Darkrose|Lady Iris]]) | Allierade bekanta |

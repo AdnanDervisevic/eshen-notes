@@ -33,11 +33,20 @@ Masterlistan — sorterad efter hetta. Större mysterier har egna sidor (länkad
 - Estalfus botgöring hos [[Torm]] (två själar fallna under hans uppsyn).
 - Gott ord/befordran åt [[Kapten Ervin]]; middagen med [[Bromdir Gurin]] (Shadowfell-handel).
 
+## Nytt från Roll20-handouten
+- **"Renelsen" 1530** — okänd händelse i [[Akrylia]] som familjen Andersson red ut. Samma år som [[Easthalls fall]]. Vad var den?
+- **[[Eslan|Estlans]] "farväl i botten av botten"** — aldrig funnet. Skinnpåsen? Bentärningen?
+- **[[Sigurth Andersson]]s tjänsteskuld till [[Melony Yates]]** — utlovad som betalning för forskningen.
+- **[[Mathilda]] går i [[Ethel]]s kropp** — fri, korp-talande, i ett känt näste utanför Mirfield.
+- **Mannen i gröna kläder** — luftduellen mot [[Victoria Bell]] som kratrade varuhuset vid liftarna. Vem?
+- **Vita handsken**: [[Torm]]s symbol är en vit höger handske — Estalfus stenskåls-vision ("Rädda dem!", den vita metallhandsken) ser numera Torm-sänd ut, inte hag-sänd. Vilka ska räddas ur skålen?
+- Iduns väg ombord på [[Harpan och Lutan]] — enda partymedlemmen utan dokumenterad koppling till 1535-arrangemangen.
+
 ## Småtrådar och kuriosa
-- Vraket-arvegodsen: kristallkulan, bentärningen, skinnpåsen — aldrig förklarade.
-- [[Dansande Katten]]s banderollsymboler; lagerlokalen intill; [[Slim]]-mysteriet (25 dec).
-- [[Drottning Rosaline]]-diskrepansen (död? levande? utbytt?).
-- Diplomaten med rustning av skuggor ([[Dhrovag Drombus]] "hur vet ni om det?").
+- Vraket-arvegodsen: kristallkulan, bentärningen, skinnpåsen — aldrig förklarade (jfr "farvälet" ovan).
+- [[Dansande Katten]]s lagerlokal; [[Slim]]-mysteriet (25 dec). *(Banderollerna: LÖST — festivalgudarnas symboler.)*
+- **[[Drottning Rosaline|Rosalina]]-frågan — ÖPPEN och het:** stavningen är rättad och hon lever enligt handouten, men dödsuppgiften 1540 + ceremonifrånvaron är oförklarade. Bordets bedömning: *något är riktigt lurt med staden; att de sa att hon är död måste betyda något.*
+- Diplomaten med rustning av skuggor — **utskickad av [[Vadaria]]** enligt ryktet i handouten; [[Dhrovag Drombus]] "hur vet ni om det?" kvarstår.
 - [[Victoria Bell]]s föräldrar ("inte helt perfekta") + telepati-döda celler.
 - 5 stulna [[Soul Stones]] hos [[Dutch]]; [[Lilian]]-namnet; [[Seebo Timbers]] bestar.
 - [[Isondra]]-misstanken ([[Illiyana]]); vem var äventyrarlaget med jordig doft i Myth Inventos?

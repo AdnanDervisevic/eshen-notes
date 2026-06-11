@@ -15,6 +15,7 @@ In-game-året för kampanjens start är **1540** — partyt trodde länge att de
 | — | Attacker på Netherese-städerna **Lauda** och **Kyth-lendrothael** (nämnda i [[Myth Inventos]] sista meddelande). |
 | ≥800 år sedan | [[Myth Inventos]] störtar och blir liggande under det som senare blir [[Highfort]]. [[Brysis of Khaem]] gravsätts. Även [[Mirfield]] och [[Lion's Hold]] står på ruiner. |
 | Flera hundra år sedan | I [[Akrylia]]: krig mellan orcher och Easthal; goblinkrig driver bort större delen av dvärgpopulationen. |
+| 1413 | **Eyrik Embersten** kommer till makt i Mercatura (kolgruvan med ädelstenar) — familjen Anderssons uppgång börjar ([[Stina]]). |
 
 ## Yudons och Eshens historia
 
@@ -24,15 +25,16 @@ In-game-året för kampanjens start är **1540** — partyt trodde länge att de
 | 1452 | Allemansläger och nya lagar: värnplikt införs. Inga kungar ännu — styre i samförstånd. |
 | ca 1453 | Gruvorna vid Iron Woods (nu [[Bronze Woods]]) töms. |
 | ca 1460 | [[Highmont]] delas i två av en lavin och en drake. |
-| 1468 | Draken [[Brimstone]] dräps — [[Auron]] stupar, [[Amrai]] och [[Shiva]] överlever. Lag: den som dödar draken äger dess skatt. Amrai tar/får ön [[Starcrest Keep]] och isolerar sig. Se [[Brimstones död]]. |
+| 1468 | Draken [[Brimstone]] dräps av 17-årige [[Auron]]s grupp — Auron stupar (floden där han dog bär hans namn), [[Amrai]] och [[Shiva|Shevah]] överlever. Samma år: Eyrik Embersten äktar Stina Andersson — namnet Andersson tas. Lag: den som dödar draken äger dess skatt. Amrai tar/får ön [[Starcrest Keep]] och isolerar sig. Se [[Brimstones död]]. |
+| 1473 | **Johannes Andersson** föds i Mercatura — dvärgisk son med *gyllene ögon*, efter fem barnlösa år ([[Sigurths sanna natur]]). |
 | ca 1486–87 | En folkhop stormar Starcrest Keep; [[Patience]] dödas (54 år före ca 1541). Amrai bygger labyrinten med [[Fang Gee]]s hjälp. |
 | ca 1490 | En by söderut (Wilston?) förstörs av översvämning. |
 | 1492 | [[Leroy Maxwell|Leroy Griffinbane]] väljs till förste kung och tar namnet Maxwell. [[Arcanalicens]]-lagen införs. |
 | ca 1500–1502 | Senaste arcanalicensen före partyts tid delas ut till [[Sir Wilfred]]. ⚠ Källorna säger både "40 år sedan" och "38 år sedan, under Leeroy Maxwells styre". |
 | 1502 | Sir Wilfred dräper en grön drake vid [[Kirkwall]]. |
 | ca 1510 | Eslan(?) kontaktar [[Fang Gee]] ca 30 år före 1540 — se [[Eslan]]. |
-| 1530 | [[Easthalls fall]]: en armé av orcher och en stor metallisk kub krossar Easthall i Akrylia. [[Mörkrets ankomst i Akrylia]] — flyktingvåg till Eshen i ca 5 år. |
-| 1535 | Sista skeppen från Akrylia. [[Mjölkpigan]] (Narcis) anländer 6 mars. [[Nordvindspärlan]] (1 april), [[Tvillingen]] (31 maj) och [[Vattenjungfrun]] (14 juli) — inga kommer fram. Därefter total tystnad: [[Akrylias tystnad]]. |
+| 1530 | [[Easthalls fall]]: en armé av orcher och en stor metallisk kub krossar Easthall i Akrylia. [[Mörkrets ankomst i Akrylia]] — flyktingvåg till Eshen i ca 5 år. Samma år: **"renelsen"** i Mercatura (okänd händelse; Andersson-familjen red ut den). |
+| 1535 | Sista skeppen från Akrylia. Familjen Andersson i kontakt med sjöfolksgille — *"Harpan & Lutan"* understruket; [[Eslan|Estlans]] livvaktsarrangemang för Estalfus. [[Mjölkpigan]] (Narcis) anländer 6 mars. [[Nordvindspärlan]] (1 april), [[Tvillingen]] (31 maj) och [[Vattenjungfrun]] (14 juli) — inga kommer fram. Därefter total tystnad: [[Akrylias tystnad]]. |
 | ca 1539 | Drottningen av Yudon sägs ha dött "för runt ett år sedan". ⚠ Motstridigt: [[Drottning Rosaline]] omnämns senare som frånvarande resp. närvarande. |
 
 ## Kampanjåret 1540 (→ 1541)
@@ -44,7 +46,7 @@ In-game-året för kampanjens start är **1540** — partyt trodde länge att de
 | 1–4 juni | Strawford: cockatrice-incidenten, [[Sibach]], kistorna från vraket. | Arc 1 |
 | 4–7 juni | Genom [[Bronze Woods]] träsk; mötet med [[Agatha Toestealer]] — hennes svar om de förlorade minnena. | Arc 1 |
 | 7–13 juni | [[Josef]], tjuvskyttarna, [[Arkny]], [[Sir Wilfred]], jättarna och [[Miles Gifford]]. | [[Arc 02 - Vägen till Mirfield\|Arc 2]] |
-| ca 14 juni | Ankomst [[Mirfield]]. [[Ändsommarskörden 1540]]: fiskvarelser anfaller festivalen — partyt blir hjältar. | [[Arc 03 - Mirfield och Ändsommarskörden\|Arc 3]] |
+| ca 14–20 juni | Ankomst [[Mirfield]]. [[Ändsommarskörden 1540]] (officiellt datum för Sommarskörd: **20 juni**): fiskvarelser anfaller festivalen — partyt blir hjältar. | [[Arc 03 - Mirfield och Ändsommarskörden\|Arc 3]] |
 | 22 juni | Biblioteksforskning; [[Konrad]]s skeppslistor; året avslöjas vara **1540** (Lagmästare [[Clark]]). | Arc 3 |
 | ca 25 juni | [[Arcanalicens-ceremonin]]: Iduns tal inför [[Jonathan Maxwell]]; partyt döps till [[Havets Hämnare]]. | Arc 3 |
 | 28 juni | Avresa mot [[Revan]] på [[Victoria Bell]]s uppdrag. | [[Arc 04 - Revan och tornet vid Highfort\|Arc 4]] |

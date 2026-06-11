@@ -4,4 +4,4 @@ status: levande
 ---
 # Ryan Watson
 
-Kapten i [[Lion's Hold]] med träben *och pump till fot*; seglade partyt till [[Siren's Call]] (30 g var) och lärde dem läsa tidvatten och klippor.
+Kapten på **Den Blå Spiran** i [[Lion's Hold]]; träbenet har en **luftpump istället för fot — för att dämpa ljudet av hans steg**. Seglade partyt till [[Siren's Call]] (30 g var) och lärde dem läsa tidvatten och klippor.

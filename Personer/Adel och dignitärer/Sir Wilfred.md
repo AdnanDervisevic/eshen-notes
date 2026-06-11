@@ -6,7 +6,7 @@ status: levande
 # Sir Wilfred
 
 > [!info] Översikt
-> **Roll:** Riddare/förvaltare ("Sheriffen") av [[Arkny]]-trakten under baron [[Miles Gifford]] · **Bedrifter:** drakdräpare · **Licens:** innehar en av rikets få [[Arcanalicens]]er (~1500)
+> **Roll:** Riddare/förvaltare ("Sheriffen") av [[Arkny]]-trakten — har tjänat familjen Gyfford sida vid sida i **55 år** under baron [[Miles Gifford]] · **Bedrifter:** drakdräpare · **Licens:** innehar en av rikets få [[Arcanalicens]]er (~1500)
 
 Lorden partyt först försökte imponera på — utan framgång (han var "icke imponerad" av deras förslag om tjuvjakt och matbrist). Bakom den sura ytan: mannen som **1502 dräpte en grön drake vid [[Kirkwall]]** (senare namngiven som **Primrose**, dubbelt så stor som en vagn), skicklig med spjut, möjligen **släkt med [[Auron]]**.
 
