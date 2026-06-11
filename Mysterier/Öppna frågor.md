@@ -4,7 +4,7 @@ tags: [mysterium, register]
 ---
 # Öppna frågor
 
-Masterlistan — sorterad efter hetta. Större mysterier har egna sidor (länkade).
+Masterlistan — sorterad efter hetta. Större mysterier har egna sidor (länkade). **Teorierna i samlad, rankad form: [[Teoriöversikt]].**
 
 ## Akut (pågående arc)
 - [[Vampyrkvinnan]]s charm på Sigurth — bryt den. (Och: **ressa inte Sigurth** om det går illa — [[Sigurths sanna natur]].)

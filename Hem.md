@@ -71,7 +71,7 @@ Fullständig kronologi: [[Tidslinje]]
 [[Ankomsten]] · [[Ändsommarskörden 1540]] · [[Arcanalicens-ceremonin]] · [[Snöfall 1540]] · [[Magikrisen i Mirfield]] · [[Slaget om Yttre Torget]] · [[Phaerimm-drottningens fall]] · [[Amrais val]] · [[Maxwellbalen]] · [[Mythalerns rov]] — historiska: [[Netherils fall]] · [[Brimstones död]] · [[Easthalls fall]] · [[Mörkrets ankomst i Akrylia]]
 
 ### Mysterier
-[[Öppna frågor]] · [[Tidsresan och de förlorade minnena]] · [[Harpan och Lutan]] · [[Den femte huvudmagikern]] · [[Lord Whitecrow och kråkorna]] · [[Akrylias tystnad]] · [[Sigurths sanna natur]] · [[Vampyrkvinnan]] · [[Thrains varning]] · [[Patience och Court of Stars]]
+**[[Teoriöversikt]]** (alla spaningar, rankade) · [[Öppna frågor]] · [[Tidsresan och de förlorade minnena]] · [[Harpan och Lutan]] · [[Den femte huvudmagikern]] · [[Lord Whitecrow och kråkorna]] · [[Akrylias tystnad]] · [[Sigurths sanna natur]] · [[Vampyrkvinnan]] · [[Thrains varning]] · [[Patience och Court of Stars]]
 
 ### Referens
 [[Gudar och religion]] · [[Kalender och högtider]] · [[Skeppsregister]] · [[Arcanalicens]] · [[Föremålsregister]]
